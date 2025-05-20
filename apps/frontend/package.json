@@ -12,7 +12,9 @@
     "test": "echo \"No tests yet\" && exit 0"
   },
   "dependencies": {
+    "@react-router/dev": "^7.6.0",
     "@tailwindcss/vite": "^4.0.9",
+    "@vercel/react-router": "^1.1.0",
     "bootstrap-icons": "^1.11.3",
     "lucide-react": "^0.505.0",
     "react": "^19.0.0",
